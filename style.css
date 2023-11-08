@@ -1,0 +1,135 @@
+<style>
+/* Estilos generales del cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para la lista desordenada (menú de navegación) */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    float: left;
+}
+
+/* Estilos para los enlaces dentro de los elementos de la lista */
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Cambiar el color de fondo del enlace al pasar el cursor sobre él */
+li a:hover {
+    background-color: #111;
+}
+
+h1 {
+    font-family: 'Agbalumo', sans-serif;
+    text-align: center;
+   }
+   .imagen1
+    {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; /* Tamaño deseado */
+    height: auto; /* Mantiene la proporción */
+}
+.imagen2
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px; /* Tamaño deseado */
+height: auto; /* Mantiene la proporción */
+}
+.imagen3
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px; /* Tamaño deseado */
+height: auto; /* Mantiene la proporción */
+}
+.imagen4
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px; /* Tamaño deseado */
+height: auto; /* Mantiene la proporción */
+}
+body {
+    background-image: url(media/imagen5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centrado
+{
+    text-align: center;
+}
+label {
+    display: block;     
+    margin-top: 10px;
+}
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    margin-top: 5px;
+}
+button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+}
+h3 {
+    color: #192e05;
+    text-align: center;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; 
+}
+
+.imagen0{
+ display: flex;
+ gap: 20px;
+ align-items: center;
+ height: 75vh;
+ padding: 20px;
+}
+.imagen9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.menu, .pie {
+    border: 2px solid #751010;
+    padding: 2px;
+    margin: 2px;
+    }
+</style>
+</head>
